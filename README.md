@@ -1,2 +1,3 @@
-# totk_60fps
- Tears of the Kingdom 60 fps mod patch
+# totk_30fps
+ Tears of the Kingdom 30 fps mod patch
+ 
